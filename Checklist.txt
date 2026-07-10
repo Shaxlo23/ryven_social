@@ -1,0 +1,23 @@
+PHASE 1 CHECKLIST
+
+⬜ Create Folder
+
+⬜ Create Virtual Environment
+
+⬜ Install Django
+
+⬜ requirements.txt
+
+⬜ Git Init
+
+⬜ .gitignore
+
+⬜ Create Project
+
+⬜ Create Apps
+
+⬜ Templates Folder
+
+⬜ Static Folder
+
+⬜ Media Folder
