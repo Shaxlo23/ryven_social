@@ -1,23 +1,179 @@
-PHASE 1 CHECKLIST
 
-⬜ Create Folder
 
-⬜ Create Virtual Environment
+# 🗓️ Ryven Social Roadmap
 
-⬜ Install Django
+## 🚀 Week 1 — Foundation
 
-⬜ requirements.txt
+✅ Day 1
 
-⬜ Git Init
+Phase 1 — Project Setup *(TUGADI 🎉)*
 
-⬜ .gitignore
+* Project
+* Apps
+* Settings
+* Static
+* Media
+* Templates
+* Git
 
-⬜ Create Project
+-----------------------------------------------
 
-⬜ Create Apps
+✅ Day 2
 
-⬜ Templates Folder
+👤 Custom User *(TUGADI 🎉)*
 
-⬜ Static Folder
+* CustomUser Model
+* Migration
+* Admin
 
-⬜ Media Folder
+-----------------------------------------------
+
+### Day 3
+
+📝 Register
+
+* Form
+* View
+* URL
+* Template
+
+-----------------------------------------------
+
+### Day 4
+
+🔐 Login & Logout
+
+* Login
+* Logout
+* Messages
+
+-----------------------------------------------
+
+### Day 5
+
+👤 Profile
+
+* Profile Page
+* Avatar
+* Bio
+
+-----------------------------------------------
+
+### Day 6
+
+✏️ Edit Profile
+
+-----------------------------------------------
+
+### Day 7
+
+🧹 Bug Fix + GitHub Push + Review
+
+-----------------------------------------------
+
+# 🚀 Week 2 — Posts
+
+### Day 8
+
+📷 Post Model
+
+-----------------------------------------------
+
+### Day 9
+
+➕ Create Post
+
+-----------------------------------------------
+
+### Day 10
+
+🏠 Feed
+
+-----------------------------------------------
+
+### Day 11
+
+📄 Post Detail
+
+-----------------------------------------------
+
+### Day 12
+
+✏️ Update Post
+
+-----------------------------------------------
+
+### Day 13
+
+🗑 Delete Post
+
+-----------------------------------------------
+
+### Day 14
+
+🧹 Review
+
+-----------------------------------------------
+
+# 🚀 Week 3
+
+❤️ Like
+
+💬 Comment
+
+-----------------------------------------------
+
+
+# 🚀 Week 4
+
+👥 Follow
+
+Followers
+
+Following
+
+-----------------------------------------------
+
+# 🚀 Week 5
+
+🔍 Search
+
+Bookmarks
+
+-----------------------------------------------
+
+# 🚀 Week 6
+
+🔔 Notifications
+
+Settings
+
+Responsive UI
+
+Final polish
+
+-----------------------------------------------
+
+# 🎯 Har kuni qancha vaqt?
+
+Ideal:
+
+* 📚 1–2 soat
+
+yoki dam olish kunlari:
+
+* 🔥 3–4 soat
+
+Muhimi, **har kuni ozgina progress**.
+
+-----------------------------------------------
+
+# 📌 Bizning qoidalar
+
+Har kun oxirida:
+
+* ✅ Git commit
+* ✅ Checklist
+* ✅ Men kodni review qilaman
+* ✅ Keyingi bosqichga o'tamiz
+
